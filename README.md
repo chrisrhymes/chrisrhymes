@@ -22,5 +22,19 @@ Here are some ideas to get you started:
 ### Latest Posts
 
 <!--START_SECTION:feed-->
-...
+> 
+
+[Read more!]()
+> 
+
+[Read more!]()
+> 
+
+[Read more!]()
+> 
+
+[Read more!]()
+> 
+
+[Read more!]()
 <!--END_SECTION:feed-->
