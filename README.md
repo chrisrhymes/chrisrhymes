@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [Building a VS Code Extension for Gutenberg blocks](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2022&#x2F;11&#x2F;18&#x2F;building-a-vs-code-extension.html)
 * [Using Pest to test Laravel Livewire validation rules](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2022&#x2F;08&#x2F;12&#x2F;testing-livewire-validation-rules-with-pest.html)
 * [Mocking window.location in Jest](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2022&#x2F;06&#x2F;18&#x2F;mocking-window-location-in-jest.html)
 * [Considerations for Incremental Static Regeneration in Next.js](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2022&#x2F;05&#x2F;18&#x2F;considerations-for-incremental-static-regeneration.html)
 * [Mocking axios in Jest tests with Typescript](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2022&#x2F;03&#x2F;09&#x2F;mocking-axios-with-jest-and-typescript.html)
-* [Using GitHub Dependabot with a Monorepo](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2022&#x2F;03&#x2F;03&#x2F;using-github-dependabot-with-a-monorepo.html)
 <!--END_SECTION:feed-->
