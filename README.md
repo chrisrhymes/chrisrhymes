@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [Optimizing Laravel Eloquent queries](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2023&#x2F;10&#x2F;22&#x2F;optimizing-laravel-eloquent-queries.html)
 * [Building a directory system API in Laravel](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2023&#x2F;08&#x2F;18&#x2F;building-a-directory-system-api-with-laravel.html)
 * [Using PHP Enums in Laravel to store additional information](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2023&#x2F;07&#x2F;04&#x2F;using-php-enums-in-laravel.html)
 * [Upgrading a Laravel Vapor app to PHP 8.2](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2022&#x2F;12&#x2F;23&#x2F;upgrading-a-vapor-project-to-php-8-2.html)
 * [Building a VS Code Extension for Gutenberg blocks](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2022&#x2F;11&#x2F;18&#x2F;building-a-vs-code-extension.html)
-* [Using Pest to test Laravel Livewire validation rules](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2022&#x2F;08&#x2F;12&#x2F;testing-livewire-validation-rules-with-pest.html)
 <!--END_SECTION:feed-->
