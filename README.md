@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [Using prettier to format your Jekyll theme](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2023&#x2F;11&#x2F;30&#x2F;formatting-your-jekyll-theme-with-prettier.html)
 * [First impressions of React Native as a Web Developer](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2023&#x2F;11&#x2F;19&#x2F;first-impressions-of-react-native.html)
 * [Querying Laravel Eloquent&#39;s Many to Many relationships](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2023&#x2F;11&#x2F;01&#x2F;querying-many-to-many-relationships.html)
 * [Optimizing Laravel Eloquent queries](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2023&#x2F;10&#x2F;22&#x2F;optimizing-laravel-eloquent-queries.html)
 * [Building a directory system API in Laravel](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2023&#x2F;08&#x2F;18&#x2F;building-a-directory-system-api-with-laravel.html)
-* [Using PHP Enums in Laravel to store additional information](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2023&#x2F;07&#x2F;04&#x2F;using-php-enums-in-laravel.html)
 <!--END_SECTION:feed-->
