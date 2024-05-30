@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [Using the GOV.UK Design System with Laravel](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;05&#x2F;29&#x2F;using-gov-uk-design-system-with-laravel.html)
 * [Customising Laravel Sail services using the Laravel Build server](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;05&#x2F;21&#x2F;customising-laravel-sail-services-using-laravel-build-server.html)
 * [Getting started with React Hook Form](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;05&#x2F;10&#x2F;getting-started-with-react-hook-form.html)
 * [Using when with the Laravel Http Client](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;01&#x2F;28&#x2F;using-when-with-laravel-http-client.html)
 * [New book announcement!](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;01&#x2F;07&#x2F;the-little-astwick-mysteries-trouble-in-the-church.html)
-* [Using prettier to format your Jekyll theme](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2023&#x2F;11&#x2F;30&#x2F;formatting-your-jekyll-theme-with-prettier.html)
 <!--END_SECTION:feed-->
