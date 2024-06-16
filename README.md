@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [Building a landing page for your book](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;06&#x2F;15&#x2F;building-a-landing-page-for-your-book.html)
 * [How to promote your ebooks with your website?](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;06&#x2F;06&#x2F;promoting-your-ebooks-with-your-website.html)
 * [Using the GOV.UK Design System with Laravel](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;05&#x2F;29&#x2F;using-gov-uk-design-system-with-laravel.html)
 * [Customising Laravel Sail services using the Laravel Build server](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;05&#x2F;21&#x2F;customising-laravel-sail-services-using-laravel-build-server.html)
 * [Getting started with React Hook Form](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;05&#x2F;10&#x2F;getting-started-with-react-hook-form.html)
-* [Using when with the Laravel Http Client](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;01&#x2F;28&#x2F;using-when-with-laravel-http-client.html)
 <!--END_SECTION:feed-->
