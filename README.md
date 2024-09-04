@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [Adding social icons to the Bulma Clean Theme footer](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;09&#x2F;03&#x2F;social-media-icons-in-bulma-clean-theme.html)
 * [The Little-Astwick Mysteries (book 2) - Grave concern at the Manor](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;08&#x2F;06&#x2F;grave-concern-at-the-manor.html)
 * [Marketing an ebook with the 4Ps](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;06&#x2F;25&#x2F;marketing-an-ebook-with-the-4-ps.html)
 * [Building a landing page for your book](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;06&#x2F;15&#x2F;building-a-landing-page-for-your-book.html)
 * [How to promote your ebooks with your website?](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;06&#x2F;06&#x2F;promoting-your-ebooks-with-your-website.html)
-* [Using the GOV.UK Design System with Laravel](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2024&#x2F;05&#x2F;29&#x2F;using-gov-uk-design-system-with-laravel.html)
 <!--END_SECTION:feed-->
