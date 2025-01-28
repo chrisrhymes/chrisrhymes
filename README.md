@@ -31,24 +31,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:feed-->
 
->
-
-[Read more!]()
-
->
-
-[Read more!]()
-
->
-
-[Read more!]()
-
->
-
-[Read more!]()
-
->
-
-[Read more!]()
-
+- [Testing window.open() in JavaScript with Jest](https://www.csrhymes.com/2024/12/01/testing-window-open-in-javascript.html)
+- [Why did I become a writer?](https://www.csrhymes.com/2024/09/14/why-did-i-become-a-writer.html)
+- [Adding social icons to the Bulma Clean Theme footer](https://www.csrhymes.com/2024/09/03/social-media-icons-in-bulma-clean-theme.html)
+- [The Little-Astwick Mysteries (book 2) - Grave concern at the Manor](https://www.csrhymes.com/2024/08/06/grave-concern-at-the-manor.html)
+- [Marketing an ebook with the 4Ps](https://www.csrhymes.com/2024/06/25/marketing-an-ebook-with-the-4-ps.html)
 <!--END_SECTION:feed-->

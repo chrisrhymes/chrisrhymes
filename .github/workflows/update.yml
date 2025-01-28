@@ -2,8 +2,8 @@ name: Update this repo's README
 
 on:
   push:
-    branches:    
-      - 'main'
+    branches:
+      - "main"
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
@@ -16,3 +16,5 @@ jobs:
         with:
           feed-url: https://www.csrhymes.com/feed.xml
           readme-section: feed
+          branch: main
+          path: README.md
