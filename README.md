@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [Fixing a few SEO issues with my author website](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;08&#x2F;23&#x2F;fixing-a-few-seo-issues-with-my-author-website.html)
 * [Using Tailwindcss with Codepen](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;07&#x2F;29&#x2F;using-tailwindcss-with-codepen.html)
 * [Creating a custom toggle in TailwindCSS](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;07&#x2F;29&#x2F;creating-a-custom-toggle-in-tailwindcss.html)
 * [Five book blurb writing observations](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;06&#x2F;06&#x2F;blurb-writing-observations.html)
 * [Creating a Kindle formatted book from Google Docs](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;05&#x2F;20&#x2F;creating-a-kindle-book-from-google-docs.html)
-* [Hosting a Laravel app with AWS Beanstalk](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;04&#x2F;07&#x2F;hosting-a-laravel-app-with-aws-beanstalk.html)
 <!--END_SECTION:feed-->
