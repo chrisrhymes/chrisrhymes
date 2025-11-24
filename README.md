@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [Creating a links page with Bulma Clean Theme](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;11&#x2F;23&#x2F;creating-a-links-page-with-bulma-clean-theme.html)
 * [HTML is beautiful](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;10&#x2F;07&#x2F;html-is-beautiful.html)
 * [Fixing a few SEO issues with my author website](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;08&#x2F;23&#x2F;fixing-a-few-seo-issues-with-my-author-website.html)
 * [Using Tailwindcss with Codepen](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;07&#x2F;29&#x2F;using-tailwindcss-with-codepen.html)
 * [Creating a custom toggle in TailwindCSS](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;07&#x2F;29&#x2F;creating-a-custom-toggle-in-tailwindcss.html)
-* [Five book blurb writing observations](https:&#x2F;&#x2F;www.csrhymes.com&#x2F;2025&#x2F;06&#x2F;06&#x2F;blurb-writing-observations.html)
 <!--END_SECTION:feed-->
